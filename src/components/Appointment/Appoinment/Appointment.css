@@ -1,0 +1,9 @@
+.appointment-background {
+    height:600px;
+    position:relative;
+    background-image: url(../../../images/chairbg.png);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+}
+
